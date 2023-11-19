@@ -10,7 +10,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 - [Running the Application](#running-the-application)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 You can see the demo [here](https://tic-tac-toe-roan-three.vercel.app/)
