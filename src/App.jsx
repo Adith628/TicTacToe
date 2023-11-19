@@ -34,7 +34,7 @@ function App() {
 
   return(
     <>
-      <h1>Tic Tac Toe</h1>
+      <h1 style={{opacity:1,color:"white"}}>Tic Tac Toe</h1>
       <div style={{display:"flex", flexDirection:"column" ,justifyContent:"center", alignItems:"center"}}>
         <Board xIsNext={xIsNext} squares={currentSquares} onPlay={handlePlay} />
         <div className="game-infoo" style={{display:"flex", justifyContent:"center",alignItems:"center"}}>
